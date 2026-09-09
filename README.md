@@ -113,4 +113,4 @@ Part 6: Catalyst.jl
 
 Part 7: DataDrivenDiffEq.jl
 
-Part 8: Introduction to ProcessSimulator.jl and Thetis.jl
+Part 8: Introduction to CellMLToolkit.jl, ProcessSimulator.jl and Thetis.jl
